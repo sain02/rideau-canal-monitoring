@@ -109,21 +109,7 @@ Repository: **rideau-canal-dashboard**
 
 ---
 
-# 6. Repository Links  
-
-## 1. Documentation Repository (Main Submission)
-**URL:** https://github.com/sain02/rideau-canal-monitoring.git  
-Contains documentation, diagrams, screenshots, and Stream Analytics query.
-
-## 2. Sensor Simulation Repository  
-**URL:** https://github.com/sain02/rideaucanal_sensor_simulation.git  
-Python simulator for IoT data.
-
-## 3. Web Dashboard Repository  
-**URL:** https://github.com/sain02/rideau-canal-dashboard.git 
-
-Node.js + Chart.js dashboard.
-
 ---
+### THANKS
 
 
