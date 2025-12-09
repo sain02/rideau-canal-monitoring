@@ -108,6 +108,9 @@ Repository: **rideau-canal-dashboard**
 - Deployed to Azure App Service  
 
 ---
+## AI Tools Used
+- **Tool:** ChatGPT / GitHub Copilot / etc.
+- **Purpose:** Code generation, debugging, documentation
 
 ---
 ### THANKS
