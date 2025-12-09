@@ -25,4 +25,8 @@ Node.js + Chart.js dashboard.
 ---
 
 ## Demo Video
-- **YouTube Link:** 
+**YouTube Link:** https://youtu.be/ffyEiLnlZU8
+
+----
+----
+### THANKS
